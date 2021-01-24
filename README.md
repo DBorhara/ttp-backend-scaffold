@@ -97,4 +97,4 @@ Distributed under the ISC License.
 
 Depak Borhara - [@dborhara](https://twitter.com/Dborhara) - depakborhara@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/DBorhara/ttp-backend-scaffold)
+Project Link: [https://github.com/DBorhara/ttp-backend-scaffold](https://github.com/DBorhara/ttp-backend-scaffold)
